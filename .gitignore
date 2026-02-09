@@ -1,0 +1,7 @@
+.brain/
+.agent/
+.gemini/
+*.log
+node_modules/
+dist/
+.env
