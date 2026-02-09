@@ -1,20 +1,20 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/render?type=soft&color=6366f1&height=300&section=header&text=Vu%20Anh%20Tuan&fontSize=90&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Flutter%20%7C%20Next.js&descAlignY=70&descSize=25&fontColor=ffffff&v=2" width="100%" alt="Banner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=70&pause=1000&color=6366F1&center=true&vCenter=true&width=1000&height=150&lines=VU+ANH+TUAN" width="100%" alt="Vu Anh Tuan" />
 
 <br/>
 
 # 👋 Hi there, I'm Vu Anh Tuan
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Flutter+Enthusiast;Next.js+Developer;UI+UX+Designer;Open-source+Contributor" alt="Typing SVG" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Flutter+Enthusiast;Next.js+Developer;UI+UX+Designer;Open-source+Contributor" alt="Typing SVG" />
 
 <br/>
 
-<!-- ANIMATED TROPHIES -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=tuanasish&theme=radical&no-frame=false&margin-w=15&margin-h=15&v=2" alt="Tuanasish Trophies" />
-</a>
+<!-- REPLACEMENT FOR TROPHIES: RELIABLE STATS -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuanasish&show_icons=true&theme=radical&bg_color=0f172a&title_color=6366f1&icon_color=a855f7&text_color=ffffff&hide_border=true&count_private=true" alt="Tuanasish Stats" />
+</div>
 
 <br/><br/>
 
