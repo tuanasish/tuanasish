@@ -137,5 +137,5 @@ Actively exploring open-source projects. Interested in contributing to Flutter, 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer" width="100%" />
 <!-- Extra metric 2 -->
