@@ -2,21 +2,21 @@
 
 <!-- HERO BANNER -->
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:a855f7&height=280&section=header&text=Hello,%20I'm%20Vu%20Anh%20Tuan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF00AA&height=280&section=header&text=Hello,%20I'm%20Vu%20Anh%20Tuan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer" width="100%" />
 
 <br/>
 
 <!-- REPLACEMENT FOR TROPHIES: RELIABLE STATS -->
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tuanasish&show_icons=true&theme=radical&bg_color=0f172a&title_color=6366f1&icon_color=a855f7&text_color=ffffff&hide_border=true&count_private=true" alt="Tuanasish Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tuanasish&show_icons=true&theme=radical&bg_color=0f172a&title_color=00F0FF&icon_color=FF00AA&text_color=ffffff&hide_border=true&count_private=true" alt="Tuanasish Stats" />
 </div>
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuanasish/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tuanasish/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://vuanhtuan-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=white)](https://vuanhtuan-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vuanhtuan.dev@gmail.com)
 
 </div>
@@ -110,22 +110,22 @@ Actively exploring open-source projects. Interested in contributing to Flutter, 
 
 <div align="center">
   <!-- GitHub Stats & Top Langs -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tuanasish&show_icons=true&theme=radical&bg_color=0f172a&title_color=6366f1&icon_color=a855f7&text_color=ffffff&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tuanasish&layout=compact&theme=radical&bg_color=0f172a&title_color=6366f1&text_color=ffffff&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tuanasish&show_icons=true&theme=radical&bg_color=0f172a&title_color=00F0FF&icon_color=FF00AA&text_color=ffffff&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tuanasish&layout=compact&theme=radical&bg_color=0f172a&title_color=00F0FF&text_color=ffffff&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuanasish&theme=radical&background=0f172a&stroke=6366f1&fire=ff7b54&currStreakNum=ffffff&sideNums=6366f1&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuanasish&theme=radical&background=0f172a&stroke=00F0FF&fire=FF00AA&currStreakNum=ffffff&sideNums=00F0FF&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuanasish&bg_color=0f172a&color=6366f1&line=a855f7&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuanasish&bg_color=0f172a&color=00F0FF&line=FF00AA&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -144,7 +144,7 @@ Actively exploring open-source projects. Interested in contributing to Flutter, 
 **Let's build something awesome together!**
 
 <a href="https://vuanhtuan-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00F0FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/tuanasish/">
@@ -163,5 +163,5 @@ Actively exploring open-source projects. Interested in contributing to Flutter, 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF00AA&height=120&section=footer" width="100%" />
 <!-- Extra metric 2 -->
