@@ -165,3 +165,4 @@ Actively exploring open-source projects. Interested in contributing to Flutter, 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:FF00AA&height=120&section=footer" width="100%" />
 <!-- Extra metric 2 -->
+<!-- yolo badge -->
