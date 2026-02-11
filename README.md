@@ -13,7 +13,7 @@
 
 <!-- REPLACEMENT FOR TROPHIES: RELIABLE STATS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuanasish&show_icons=true&theme=radical&bg_color=0f172a&title_color=6366f1&icon_color=a855f7&text_color=ffffff&hide_border=true&count_private=true" alt="Tuanasish Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tuanasish&show_icons=true&theme=radical&bg_color=0f172a&title_color=6366f1&icon_color=a855f7&text_color=ffffff&hide_border=true&count_private=true" alt="Tuanasish Stats" />
 </div>
 
 <br/><br/>
@@ -84,8 +84,8 @@ Actively exploring open-source projects. Interested in contributing to Flutter, 
 
 <div align="center">
   <!-- GitHub Stats & Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tuanasish&show_icons=true&theme=radical&bg_color=0f172a&title_color=6366f1&icon_color=a855f7&text_color=ffffff&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanasish&layout=compact&theme=radical&bg_color=0f172a&title_color=6366f1&text_color=ffffff&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tuanasish&show_icons=true&theme=radical&bg_color=0f172a&title_color=6366f1&icon_color=a855f7&text_color=ffffff&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tuanasish&layout=compact&theme=radical&bg_color=0f172a&title_color=6366f1&text_color=ffffff&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
