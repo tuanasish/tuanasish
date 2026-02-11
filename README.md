@@ -1,13 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=70&pause=1000&color=6366F1&center=true&vCenter=true&width=1000&height=150&lines=VU+ANH+TUAN" width="100%" alt="Vu Anh Tuan" />
-
-<br/>
-
-# 👋 Hi there, I'm Vu Anh Tuan
-
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Flutter+Enthusiast;Next.js+Developer;UI+UX+Designer;Open-source+Contributor" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:a855f7&height=300&section=header&text=Vu%20Anh%20Tuan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Flutter%20%E2%80%A2%20Next.js&descFontSize=25&descFontColor=ffffff&descAlignY=60" width="100%" />
 
 <br/>
 
