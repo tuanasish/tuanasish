@@ -6,15 +6,22 @@ from datetime import datetime, timedelta
 REPO_PATH = os.path.dirname(os.path.abspath(__file__)) # Thư mục hiện tại (profile readme)
 CONTRIBUTION_FILE = os.path.join(REPO_PATH, "CONTRIBUTION.md")
 COMMIT_MESSAGE = "chore: daily contribution [auto]"
+GIT_USER_NAME = "tuanasish"
+GIT_USER_EMAIL = "vuanhtuanofc@gmail.com"
 
 def run_command(command):
     print(f"Executing: {command}")
     os.system(command)
 
+def setup_git_identity():
+    run_command(f'git config user.name "{GIT_USER_NAME}"')
+    run_command(f'git config user.email "{GIT_USER_EMAIL}"')
+
 def make_grass_green(days=30, commits_per_day_range=(1, 5)):
     """
     Tự động tạo commit trong quá khứ để làm xanh biểu đồ.
     """
+    setup_git_identity()
     print(f"🚀 Bắt đầu chiến dịch 'Xanh Cỏ' trong {days} ngày...")
     
     # Đảm bảo file tồn tại
