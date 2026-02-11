@@ -70,104 +70,7 @@ I'm a **Full-Stack Developer** passionate about building elegant, user-centric d
 
 ---
 
-## ⭐ Featured Projects
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://capsule-render.vercel.app/render?type=rect&color=6366f1&height=120&text=CHỢ%20QUÊ&fontSize=50&fontAlignY=50&fontColor=ffffff" width="100%" alt="Chợ Quê Project" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <h3>📦 Chợ Quê - Rural Delivery Marketplace</h3>
-      <p>
-        A digital marketplace connecting local farmers with urban consumers. Focused on simplicity, accessibility, and optimized logistics for rural areas.
-      </p>
-      <p><strong>Key achievements:</strong></p>
-      <ul>
-        <li>Built end-to-end mobile app for both farmers & buyers</li>
-        <li>Implemented real-time order tracking & notifications</li>
-        <li>Optimized for slow networks (key for rural areas)</li>
-      </ul>
-      <p>
-        <strong>Tech:</strong> 
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/GetX-800080?style=flat&logoColor=white" />
-      </p>
-      <div align="right">
-        <a href="https://github.com/tuanasish/choque"><b>View Repository ➜</b></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://capsule-render.vercel.app/render?type=rect&color=a855f7&height=120&text=PROJECT%202&fontSize=50&fontAlignY=50&fontColor=ffffff" width="100%" alt="Project 2" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <h3>🌐 [Your Next.js Project Name]</h3>
-      <p>
-        [Brief description of project - what problem it solves, who uses it]
-      </p>
-      <p><strong>Key features:</strong></p>
-      <ul>
-        <li>[Feature 1]</li>
-        <li>[Feature 2]</li>
-        <li>[Feature 3 or achievement]</li>
-      </ul>
-      <p>
-        <strong>Tech:</strong> 
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-      </p>
-      <div align="right">
-        <a href="https://github.com/tuanasish/[repo-name]"><b>View Repository ➜</b></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://capsule-render.vercel.app/render?type=rect&color=ec4899&height=120&text=PROJECT%203&fontSize=50&fontAlignY=50&fontColor=ffffff" width="100%" alt="Project 3" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <h3>🛠️ [Your Backend/Full-stack Project Name]</h3>
-      <p>
-        [Brief description - API, service, tool, or application]
-      </p>
-      <p><strong>Highlights:</strong></p>
-      <ul>
-        <li>[Achievement 1 - e.g., "Handles 10k+ requests/day"]</li>
-        <li>[Achievement 2 - e.g., "99.9% uptime"]</li>
-        <li>[Achievement 3 - e.g., "Comprehensive test coverage"]</li>
-      </ul>
-      <p>
-        <strong>Tech:</strong> 
-        <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-      </p>
-      <div align="right">
-        <a href="https://github.com/tuanasish/[repo-name]"><b>View Repository ➜</b></a>
-      </div>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -181,22 +84,22 @@ Actively exploring open-source projects. Interested in contributing to Flutter, 
 
 <div align="center">
   <!-- GitHub Stats & Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tuanasish&show_icons=true&theme=radical&bg_color=0f172a&title_color=6366f1&icon_color=a855f7&text_color=ffffff&card_width=49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanasish&layout=compact&theme=radical&bg_color=0f172a&title_color=6366f1&text_color=ffffff&card_width=49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tuanasish&show_icons=true&theme=radical&bg_color=0f172a&title_color=6366f1&icon_color=a855f7&text_color=ffffff&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanasish&layout=compact&theme=radical&bg_color=0f172a&title_color=6366f1&text_color=ffffff&hide_border=true" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuanasish&theme=radical&background=0f172a&stroke=6366f1&fire=ff7b54&currStreakNum=ffffff&sideNums=6366f1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuanasish&theme=radical&background=0f172a&stroke=6366f1&fire=ff7b54&currStreakNum=ffffff&sideNums=6366f1&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
   <!-- Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=tuanasish&bg_color=0f172a&color=6366f1&line=a855f7&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tuanasish&bg_color=0f172a&color=6366f1&line=a855f7&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
