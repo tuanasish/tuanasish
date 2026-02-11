@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:a855f7&height=300&section=header&text=Vu%20Anh%20Tuan&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Flutter%20%E2%80%A2%20Next.js&descFontSize=25&descFontColor=ffffff&descAlignY=60" width="100%" />
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:a855f7&height=280&section=header&text=Hello,%20I'm%20Vu%20Anh%20Tuan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer" width="100%" />
 
 <br/>
 
